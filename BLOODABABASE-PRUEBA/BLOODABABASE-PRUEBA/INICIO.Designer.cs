@@ -82,7 +82,7 @@
             this.panel2.BackColor = System.Drawing.Color.Transparent;
             this.panel2.BackgroundImage = global::BLOODABABASE_PRUEBA.Properties.Resources.Rectángulo_36;
             this.panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panel2.Location = new System.Drawing.Point(583, 242);
+            this.panel2.Location = new System.Drawing.Point(423, 214);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(254, 55);
             this.panel2.TabIndex = 1;
