@@ -88,7 +88,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::BLOODABABASE_PRUEBA.Properties.Resources.apartment_24px;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 68);
+            this.pictureBox1.Location = new System.Drawing.Point(24, 68);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(73, 73);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
